@@ -49,6 +49,9 @@ Solana链上代币，可以提前挂单交易。
 2. 财富密码：   
 ![alt text](deposit_snipe.png)      
 向制定的地址充值成功之后，用户可以接收到监测交易所上币信息，并且可以开启自动打新功能。   
+![alt text](setting_auto_trade.png)   
+充值成功之后，可以通过上图方式配置打新参数。   
+
 
 3. 新闻订阅：   
 ![alt text](deposit_news.png)   
