@@ -3,9 +3,9 @@
 ## 简介
 蜘蛛机器人能够快速方便的交易Solana，Ethererum和Base链上的代币。   
 
-机器人链接：https://t.me/spider_tge_sniper_bot   
-社区链接：https://t.me/officialspider_bot     
-联系人：https://t.me/Mark20172022   
+机器人链接：[@spider_tge_sniper_bot]https://t.me/spider_tge_sniper_bot   
+社区链接：[@officialspider_bot]https://t.me/officialspider_bot     
+联系人：[@Mark20172022]https://t.me/Mark20172022   
 
 
 ## 亮点
@@ -70,7 +70,7 @@ Solana链上代币，可以提前挂单交易。
 ![alt text](manual_trade.png)   
 上图是用户手动交易，需要选择链，输入代币合约地址，交易数量。   
 
-![alt text](auto_trade.png)
+![alt text](auto_trade.png)   
 上图自动打新交易，打新成功之后，机器人会自动将交易信息推送给用户。
 
 
