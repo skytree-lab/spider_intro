@@ -43,27 +43,27 @@ Solana链上代币，可以提前挂单交易。
 充值：    
 ![alt text](deposit.png)    
 1. 交易充值：   
-![alt text](deposit_trade.png)      
+![alt text](deposit_trade.png)         
 交易充值是给自己的地址充值，充值之后就可以进行交易。   
 
 2. 财富密码：   
-![alt text](deposit_snipe.png)   
+![alt text](deposit_snipe.png)      
 向制定的地址充值成功之后，用户可以接收到监测交易所上币信息，并且可以开启自动打新功能。   
 
 3. 新闻订阅：   
-![alt text](deposit_news.png)  
+![alt text](deposit_news.png)   
 向制定的地址充值成功之后，用户可以配置接收新闻的群组，机器人会每个小时向制定的群组推送新闻。      
 
 4. 账户升级：   
-![alt text](deposit_upgrade_account.png)
+![alt text](deposit_upgrade_account.png)   
 向制定的地址充值成功之后，用户可以升级为KOL，KOL交易免手续费，KOL邀请来的用户产生的手续费都会转移到KOL的账户中去。       
    
 提现：   
-![alt text](withdraw.png)   
+![alt text](withdraw.png)    
 用户可以提现主链币(SOL,ETH)和token。提现不收手续费。   
 
 兑换：   
-![alt text](exchange.png)
+![alt text](exchange.png)   
 用户可以使用该功能将ETH兑换为WETH或者将WETH兑换为ETH，Ethererum和Base链上兑换使用的是WETH。   
    
 交易：   
